@@ -16,8 +16,8 @@ Example:
   Your Name: Kyuhong Park
 
 -->
-  Your GT Login ID: 
-  Your Name: 
+  Your GT Login ID: wyu324
+  Your Name: Wen Yu
 <--
 
 Task 1
@@ -28,7 +28,7 @@ Task 1
 Example:
   IP : 10.0.2.3
 -->
-  IP : 
+  IP : 10.0.2.15
 <--
 
 
@@ -38,7 +38,7 @@ Example:
   Port : 73
 
 -->
-  Port : 
+  Port : 80
 <--
 
 
